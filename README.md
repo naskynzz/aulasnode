@@ -1,2 +1,2 @@
 # aulasnode
-aulas do curso de node.js
+aulas do curso de node
